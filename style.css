@@ -1,0 +1,801 @@
+a{
+    cursor: url('http://i32.servimg.com/u/f32/17/42/09/54/handcu10.png'), auto;
+  text-decoration: none;
+    }
+body {
+  cursor: url(http://i42.servimg.com/u/f42/17/42/09/54/cursor10.png), progress !important;
+   text-decoration: none;
+}
+
+#chatbox .cb-avatar > img {
+    min-height: 40px;
+    min-width: 40px;
+    border-radius: 20px 20px 20px 20px;
+}
+#chatbox .cb-avatar {
+    background: none repeat scroll 0px 0px rgb(255, 255, 255);
+    border: 1px solid rgb(213, 213, 213) !important;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+    float: right;
+    min-height: 40px;
+    margin-left: 4px;
+    padding: 1px;
+    vertical-align: middle;
+    min-width: 40px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.profile_field_list li {
+    display: inline;
+}
+
+ul.profile_field_list {
+    margin: 0px;
+    padding: 5px;
+}
+.forumline .row1, .forumline .row2, .forumline .row3, .forumline .row3Right {
+    padding: 2px 0px;
+}
+
+.warning-box{-moz-border-radius:5px;-webkit-border-radius:5px;background:#ffcaa4
+ url(http://i21.servimg.com/u/f21/16/21/44/25/error11.png) 97% 6px
+no-repeat;border:solid 1px
+#ba4c0e;border-radius:5px;color:#222;font-color:#000;font-family:Tahoma;font-size:12px;font-weight:700;padding:6px;text-align:center}
+
+
+.profile_field_list {
+float: right;
+}
+.avatar {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(181, 181, 181);
+    width: 60px;
+    border-radius: 200px;
+}
+.avatar img {
+    width: 60px;
+    height: 60px;
+    border-radius: 200px;
+}
+.tipsy { 
+padding: 5px; 
+font-size: 11px; 
+position: absolute; 
+text-shadow: none;
+z-index: 999;
+}
+
+.tipsy-inner { 
+padding: 8px 8px 8px 8px; 
+background-color: black; 
+color: white; 
+max-width: 2000px; 
+text-align: center; 
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0, .4);
+-moz-box-shadow: 0 1px 3px rgba(0,0,0, .4);
+background: black url(http://cuul.tk/img/gradient.png) repeat-x 0 -150px;
+font:10pt tahoma;text-align:center;
+
+}
+
+.tipsy-inner { 
+border-radius: 3px; 
+-moz-border-radius:3px; 
+-webkit-border-radius:3px; 
+}
+
+.tipsy-arrow { 
+position: absolute; 
+background: url('http://cuul.tk/img/tipsy.gif') no-repeat top left; 
+width: 9px; 
+height: 5px; 
+}
+
+.tipsy-n .tipsy-arrow { 
+top: 0; 
+left: 50%; 
+margin-left: -4px; 
+}
+
+.tipsy-nw .tipsy-arrow { 
+top: 0; 
+left: 10px; 
+}
+
+.tipsy-ne .tipsy-arrow { 
+top: 0; 
+right: 10px; 
+}
+
+.tipsy-s .tipsy-arrow { 
+bottom: 0; 
+left: 50%; 
+margin-left: -4px; 
+background-position: bottom left; 
+}
+
+.tipsy-sw .tipsy-arrow { 
+bottom: 0; 
+left: 10px; 
+background-position: bottom left; 
+}
+
+.tipsy-se .tipsy-arrow { 
+bottom: 0; 
+right: 10px; 
+background-position: bottom left; 
+}
+
+.tipsy-e .tipsy-arrow { 
+top: 50%;
+margin-top: -4px; 
+right: 0; 
+width: 5px; 
+height: 9px; 
+background-position: top right; 
+}
+
+.tipsy-w .tipsy-arrow { 
+top: 50%; 
+margin-top: -4px; 
+left: 0; 
+width: 5px; 
+height: 9px; 
+}
+
+
+
+#a7lahassan img {
+          width: 60px;
+          height: 60px;
+          position: relative;
+          margin-right: 5px;
+          border-radius:200px;
+          margin-top: 15px;
+          border: 2px solid;
+}
+.LoginGo {
+    float: right;
+    display: block;
+    margin-right: 17px;
+    border: 0px none;
+    padding: 6px 22px;
+    font-size: 15px;
+    font-family: 'Droid Arabic Kufi';
+    border-radius: 3px 3px 3px 3px;
+    cursor: pointer;
+}
+
+.fa_avatar {
+          width: 25px;
+          height: 25px;
+          position: relative;
+          top: -3px;
+          margin-right: 5px;
+          border-radius:200px;
+          margin-bottom: -9px;
+}
+    .vote {
+        float: right;
+        width: 9px;
+        margin-right: 4px;
+        }
+
+    .vote .ebneleslam {
+
+        margin-right:-12px;
+        white-space:nowrap;
+        }
+.signature img{
+            max-width: 705px !important;
+            max-height: 400px !important;
+}
+
+.alt1Active span {font-size:13px;}
+.borderDev span {font-size:11px; font-family: 'Droid Arabic Kufi';}
+span {font-size:12px; font-family: 'Droid Arabic Kufi';}
+/*-----MYZEZO-----*/
+#username_reg {
+padding: 0;
+line-height: 2.0em;
+color: #000000;
+width:300px;
+height:20px;
+float: right;
+clear: both;
+text-align: right ;
+background-image: url('http://i44.servimg.com/u/f44/15/54/04/99/33310.png');
+background-position: right0;
+background-repeat: no-repeat;
+background-position: left0;
+}
+#email {
+padding: 0;
+line-height: 2.0em;
+color: #000000;
+width:300px;
+height:20px;
+float: right;
+clear: both;
+text-align: right ;
+background-image: url('http://i44.servimg.com/u/f44/15/54/04/99/email10.png');
+background-position: right0;
+background-repeat: no-repeat;
+background-position: left0;
+}
+#password_reg {
+padding: 0;
+line-height: 2.0em;
+color: #000000;
+width:300px;
+height:20px;
+float: right;
+clear: both;
+text-align: right ;
+background-image: url('http://i44.servimg.com/u/f44/15/54/04/99/222210.png');
+background-position: right0;
+background-repeat: no-repeat;
+background-position: left0;
+}
+
+a.sceditor-button {
+    border: 2px dotted rgb(207, 207, 207);
+}
+.sceditor-button, .sceditor-button div {
+    display: block;
+}
+.sceditor-button {
+    background-clip: padding-box;
+    border-radius: 3px 3px 3px 3px;
+    cursor: pointer;
+    float: left;
+    height: 20px;
+    padding: 3px 5px;
+    text-indent: -9999px;
+    width: 16px;
+}
+.sceditor-container iframe, .sceditor-container textarea {
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border: 0px none;
+    color: rgb(17, 17, 17);
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    margin: 5px;
+    outline: 0px none;
+    padding: 0px;
+    resize: none;
+    display: block;
+    width: 713px;
+    height: 203px;
+}
+
+#chatbox {
+    bottom: 30px;
+    left: 0px;
+    line-height: 10px;
+    overflow: auto;
+    padding-bottom: 1em;
+    position: absolute;
+    right: 185px;
+    top: 30px;
+}
+#chatbox_main_options a[OnClick]:first-child {
+    background: url("http://i72.servimg.com/u/f72/16/76/93/88/reload10.png") no-repeat scroll right top transparent;
+    padding-right: 17px;
+}
+#chatbox_main_options span#chatbox_option_with_archives a {
+    background: url("http://i72.servimg.com/u/f72/16/76/93/88/archiv10.png") no-repeat scroll right center / 14px auto transparent;
+    padding-right: 16px;
+}
+#chatbox_main_options a span#chatbox_option_disco {
+    background: url("http://i46.servimg.com/u/f46/16/76/93/88/cancel10.gif") no-repeat scroll right center transparent;
+    padding-right: 17px;
+}
+#chatbox_main_options a span#chatbox_option_co {
+    background: url("http://i72.servimg.com/u/f72/16/76/93/88/char10.png") no-repeat scroll right top transparent;
+    padding-right: 20px;
+}
+#chatbox_main_options, #chatbox_main_options a, #chatbox_main_options span {
+    color: rgb(154, 154, 154);
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+#chatbox_main_options {
+    background: url("http://i25.servimg.com/u/f25/14/45/99/41/untitl21.jpg") repeat-x scroll 0px 0px transparent;
+    border: 1px solid rgb(201, 201, 201);
+    border-radius: 0px 0px 5px 5px;
+    box-shadow: 0px 0px 4px rgb(198, 198, 198);
+    float: right;
+    margin-right: 0px;
+    margin-top: -5px;
+    padding: 2px 3px 1px 5px;
+}
+#chatbox_members {
+    background: url("http://i25.servimg.com/u/f25/14/45/99/41/50347510.png") repeat scroll 0% 0% rgb(255, 255, 255);
+    border-right: 1px solid rgb(201, 201, 201);
+    margin-bottom: -30px;
+    margin-right: 3px;
+}
+#chatbox_members {
+    border-left: 1px solid;
+    bottom: 30px;
+    overflow: auto;
+    position: absolute;
+    top: 30px;
+    width: 180px;
+}
+
+a span[style="color:#FF0000"] strong{                    background:url("http://i55.servimg.com/u/f55/17/71/24/36/131.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#DE4600"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/2124a610.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#FF7429"] strong{                    background:url("http://i73.servimg.com/u/f73/11/60/75/36/admini10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#2300EB"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/thumb-10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#008009"] strong{                    background:url("http://i73.servimg.com/u/f73/11/60/75/36/helper10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#00B00C"] strong{                    background:url("http://i73.servimg.com/u/f73/11/60/75/36/helper10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#20C956"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/uooo_u10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#AC00C7"] strong{                    background:url("http://i76.servimg.com/u/f76/16/25/12/20/untitl10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#EB44E0"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/uooo_u10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#E349B2"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/befunk11.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#E0A800"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/commen12.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#262626"] strong{                    background:url("http://i74.servimg.com/u/f74/18/87/83/86/a110.gif") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+a span[style="color:#105C96"] strong{                    background:url("http://i39.servimg.com/u/f39/18/38/92/49/tag-bl10.png") no-repeat scroll 0 0 transparent;                     padding-left:17px}
+.postbody{    font-size:14px;     font-family: 'Droid Arabic Kufi';}
+
+.tcat{        border-radius:5px}
+
+.catBottom{            border-radius:5px}
+
+.catHead{            border-radius:5px}
+
+.thead{        border-radius:5px}
+
+.tfoot{        border-radius:5px}
+
+.post img{-webkit-transition: -webkit-transform .15s linear;         -webkit-box-shadow:0 3px 6px rgba(0,0,0,.25);         -moz-box-shadow:0 3px 6px rgba(0,0,0,.25);         padding:5px 5px 5px 5px;         -webkit-transform: rotate( 1deg);         -moz-transform:rotate( 1deg)}
+
+.post img:hover{        -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.5);         -moz-box-shadow:0 3px 6px rgba(0,0,0,.5);         -webkit-transform: rotate(-1deg);         -moz-transform:rotate(-1deg)}
+
+.postbody img{    max-width:700px; cursor: zoom-in;}
+
+ك و و و ا د ت ز ي ي ن ح ق و ل ا ل ت س ج ي ل
+
+#username_reg{padding:0; line-height:2.0em; color:#000; width:300px; height:20px; float:right; clear:both; text-align:right; background-image:url('http://i44.servimg.com/u/f44/15/54/04/99/33310.png'); background-position:right0; background-repeat:no-repeat; background-position:left0}
+#email{padding:0; line-height:2.0em; color:#000; width:300px; height:20px; float:right; clear:both; text-align:right; background-image:url('http://i44.servimg.com/u/f44/15/54/04/99/email10.png'); background-position:right0; background-repeat:no-repeat; background-position:left0}
+#password_reg{padding:0; line-height:2.0em; color:#000; width:300px; height:20px; float:right; clear:both; text-align:right; background-image:url('http://i44.servimg.com/u/f44/15/54/04/99/222210.png'); background-position:right0; background-repeat:no-repeat; background-position:left0}
+
+
+a:link{text-decoration:none}
+a:visited{text-decoration:none}
+a:active{text-decoration:none}
+a:hover{text-decoration:none}
+
+  tr.post td{    text-align:center}
+
+tr.post td{    text-align:center}
+
+tr.post span.gensmall{display:none}
+
+.signature {
+    max-height: 400px;
+    overflow-x: auto;
+}
+.postuseravatar a img {
+-webkit-transform:scale(0.9);
+-moz-transform:scale(0.9);
+-o-transform:scale(0.9);
+-webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s;
+-o-transition-duration: 0.5s;
+}
+
+#text_editor_controls a.button2,#text_editor_controls input.button2,#text_editor_controls button.button2{
+background-image: url(http://i66.servimg.com/u/f66/13/46/75/82/bbg11.png);
+color: black;
+padding: 3px;}
+.
+.................
+.attachbox{background-color:#EEE;  border:1px solid #CCC;  color:#666;  margin:5px;  border-radius:3px;  -moz-border-radius:3px;  -webkit-border-radius:3px;  box-shadow:0 0 10px #DDD;  -moz-box-shadow:0 0 10px #DDD;  -webkit-box-shadow:0 0 10px #DDD;  white}
+.attachbox dt{background:#DDD;  padding:0 10px;  border-radius:3px;  -moz-border-radius:3px;  -webkit-border-radius:3px;  border:1px solid #CCC}
+.attachbox dd{display:block;  font-size:0.9em}
+dl.file{margin-top:5px}
+dl.file dt{border-right:1px dashed #AAA}
+dl.file dt img{width:40px;  height:40px}
+.info{font-size:10px;  font-style:italic}
+
+
+
+
+
+body{color:#333; font:9pt 'Droid Arabic Kufi';}
+td, th, p, li{font:11px 'Droid Arabic Kufi';}
+.tcat ,.thHead {background:#6CB7AE repeat-x center top; color:#FFF; font:bold 12px 'Droid Arabic Kufi'; padding:10px 10px !important; text-align:center;  #0a6daf; border-bottom:1px #6CB7AE solid; border-radius:4px !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important}
+.tcat a:link, .tcat_alink{color:#FFF; text-decoration:none}
+.tcat a:visited, .tcat_avisited{color:#FFF; text-decoration:none}
+.tcat a:hover, .tcat a:active, .tcat_ahover{color:#FFF; text-decoration:none}
+.thead{background:#F7F7F7 repeat-x center -1px; color:#444; font:bold 12px 'Droid Arabic Kufi'; padding:9px 5px !important;  #e7e7e7; border-bottom:1px #bfbfbf solid; border-radius:4px !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important}
+.thead a:link, .thead_alink{color:#222; text-decoration:none}
+.thead a:visited, .thead_avisited{color:#222; text-decoration:none}
+.thead a:hover, .thead a:active, .thead_ahover{color:#0091f1; text-decoration:none}
+.tfoot{background:#6CB7AE repeat-x center top; color:#FFF; font:9pt 'Droid Arabic Kufi'; padding:6px 5px !important;  #0a6daf; border-bottom:1px #6CB7AE solid}
+.tfoot a:link, .tfoot_alink{color:#FFF; text-decoration:none}
+.tfoot a:visited, .tfoot_avisited{color:#FFF; text-decoration:none}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover{color:#FFF; text-decoration:none}
+.alt1, .alt1Active{background:#FFF; color:#222; font:bold 13px 'Droid Arabic Kufi'; border-top:1px #FFF solid; border-left:1px #FFF solid; border-right:1px #F1F1F1 solid; border-bottom:1px #F1F1F1 solid; #FFF; border-radius:4px !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important}
+alt1 a:link, .alt1_alink, .alt1Active a:link, .alt1Active_alink{text-decoration:none}
+.alt1 a:visited, .alt1_avisited, .alt1Active a:visited, .alt1Active_avisited{text-decoration:none}
+.alt1 a:hover, .alt1 a:active, .alt1_ahover, .alt1Active a:hover, .alt1Active a:active, .alt1Active_ahover{text-decoration:none}
+.alt2, .alt2Active{background:#f7f7f7; color:#555; font:13px 'Droid Arabic Kufi'; border-top:1px #FFF solid; border-left:1px #FFF solid; border-right:1px #F1F1F1 solid; border-bottom:1px #F1F1F1 solid; #FFF; border-radius:4px !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important}
+.alt2 a:link, .alt2_alink, .alt2Active a:link, .alt2Active_alink{text-decoration:none}
+.alt2 a:visited, .alt2_avisited, .alt2Active a:visited, .alt2Active_avisited{text-decoration:none}
+.alt2 a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover{text-decoration:none}
+
+textarea, .bginput{font:12px tahoma,arial,helvetica,verdana}
+.button{font:bold 12px Tahoma,Verdana,Arial,Helvetica,sans-serif}
+select{font:12px Tahoma,Verdana,Arial,Helvetica,sans-serif}
+option, optgroup{font-size:12px; font-family:Tahoma,Verdana,Arial,Helvetica,sans-serif}
+.smallfont{font:12px 'Droid Arabic Kufi';}
+.time{color:#f8a61d; font:10px Tahoma,Verdana,Arial,Helvetica,sans-serif}
+.navbar{font:12px Droid Arabic Kufi}
+.navbar a:link, .navbar_alink{text-decoration:none}
+.navbar a:visited, .navbar_avisited{text-decoration:none}
+.navbar a:hover, .navbar a:active, .navbar_ahover{text-decoration:none}
+.highlight{color:#F00; font-weight:bold}
+.vbmenu_control{background:#6CB7AE repeat-x center top; color:#FFF; font:bold 12px tahoma; padding:5px 5px !important; #0068AD; white-space:nowrap; border-top:1px #FFF solid;}
+.vbmenu_control a:link, .vbmenu_control_alink{color:#FFF; text-decoration:none}
+.vbmenu_control a:visited, .vbmenu_control_avisited{color:#FFF; text-decoration:none}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover{color:#FFF; text-decoration:none}
+
+legend{font:bold 12px tahoma,arial,helvetica,verdana}
+.bigusername{font-size:14pt}
+
+td.thead, th.thead, div.thead{background:#F7F7F7; padding:4px}
+
+.pagenav a{text-decoration:none}
+.pagenav td{padding:2px 4px 2px 4px}
+
+.shade, a.shade:link, a.shade:visited{color:#777; text-decoration:none}
+a.shade:active, a.shade:hover{color:#F40; text-decoration:underline}
+.tcat .shade, .thead .shade, .tfoot .shade{color:#DDD}
+
+.fieldset{margin-bottom:0px}
+.fieldset, .fieldset td, .fieldset p, .fieldset li{font-size:11px}
+html, body, ul, li, p, ol, h1, h2, h3, h4, h5, img, input, select, textarea{margin:0px; padding:0px; outline:0px; text-decoration:none}
+body{background:#f9f9f9 repeat-x center top; direction:rtl; min-width:960px !important; min-height:700px}
+::selection{background:#0084db; color:#FFF; 0px 1px 0px}
+::-moz-selection{ background:#0084db;  color:#FFF; 0px 1px 0px}
+a{outline:0px; text-decoration:none}
+ul, li, ol{list-style:none}
+img{border:none}
+fieldset{margin-bottom:0px; border:1px #EEE solid; background:#FFF; color:#222; font:9pt Droid Arabic Kufi}
+/* css */
+.topnav{background:#F3F3F3; width:99%; margin:auto; overflow:hidden; height:60px; border-top:2px #E0E0E0 solid; border-bottom:2px #E0E0E0 solid; #FFF; padding:0px 5px !important; border-top:2px #E0E0E0 solid; border-bottom:2px #DDD solid}
+.topnav li{float:right}
+.topnav li a{display:block; font:bold 12px Droid Arabic Kufi; background:#E3E3E3 no-repeat -6px -6px; width:100px; height:40px; text-align:center; line-height:36px; margin:9px 0 0 5px; color:#555; text-shadow:rgba(255,255,255,1) 0 1px 0px; border-radius:4px !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important}
+.topnav li a:hover, .topnav li:hover a, .topnav li a.active, .topnav li.active a{background:#6CB7AE no-repeat -116px -6px; color:#FFF; text-shadow:rgba(0,0,0,0.9) 0 1px 1px; #32A3FF; border-bottom:1px #32A3FF solid; border-radius:4px !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important}
+
+
+
+
+
+
+.tcat {
+        border-radius: 5px;
+}
+
+.catBottom {
+            border-radius: 5px;
+}
+
+.catHead {
+            border-radius: 5px;
+}
+
+.thead {
+        border-radius: 5px;
+}
+
+.tfoot {
+        border-radius: 5px;
+}
+
+
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-size: 14pt; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, th.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+
+
+    /*في الرد السريع*/
+    form#quick_reply:Before{
+      content: "ما يلفظ من قول الا لديه رقيب عتيد";
+      text-align: center;
+      padding: 4px;
+      font-size: 11px;
+      font-family: Tahoma;
+      background: none repeat scroll 0 0 #FFFFFF;
+      border: 1px dotted #ff0000;
+      line-height: 25px;
+    }
+    /*عند اضافة موضوع جديد*/
+    #format-buttons:After{
+      content: "لا تنسى وضع عنوان جيد لموضوعك مع مراعاة تنسيقه و اخفاء الروابط";
+      text-align: center;
+      padding: 4px;
+      font-size: 11px;
+      font-family: Tahoma;
+      background: none repeat scroll 0 0 #FFFFFF;
+      border: 1px dotted #ff0000;
+      line-height: 25px;
+    }
+    /*a7medvirus*/
+
+.a7lahassan {
+    color: #FF0000;
+    font-family: Droid Arabic Kufi;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 1px;
+    padding: 2px;
+    text-align: center;
+}
+
+
+/*----------------Footer----------------*/
+#chatbox_messenger .catBottom{
+background: none !important;
+}
+#chatbox_messenger_form {
+width: 580px;
+background: none !important;
+float: left !important;
+bottom: 0px ;
+position: fixed;
+z-index: 999;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+}
+.chatfootertable {
+-webkit-box-shadow: 0px 0px 4px #d4d4d4;
+box-shadow: 0px -0px 4px #d4d4d4;
+-moz-box-shadow: 0px 0px 4px #d4d4d4;
+box-shadow: 0px 0px 4px #c6c6c6;
+-moz-box-shadow: 0px 0px 4px #c6c6c6;
+border-top: 1px solid #c9c9c9;
+border-left: 1px solid #c9c9c9;
+border-right: 1px solid #c9c9c9;
+border-bottom: 0px;
+height: 30px;
+border-radius: 5px 5px 0px 0px;
+-moz-border-radius: 5px 5px 0px 0px;
+background-color: #ffffff;
+background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f9f9f9));
+background: -moz-linear-gradient(top, #ffffff, #e2e2e2);
+}
+.chatfootertable:hover {
+border-top: 1px solid #a7a7a7;
+border-left: 1px solid #a7a7a7;
+border-right: 1px solid #a7a7a7;
+}
+#chatbox_footer table.text-styles {
+    float: right;
+}
+.text-styles {
+color: grey;
+}
+
+#divcolor, #divsmilies, .format-message + label {
+font-size:16px;
+font-weight:bold;
+color:rgb(5, 174, 14);
+border:1px solid rgb(5, 174, 14);
+padding: 4px;
+}
+#help-button {
+font-size:16px;
+color:#F95558;
+border:1px solid #F95558;
+padding: 4px;
+font-weight:bold;
+}
+#chatbox_contextmenu p {
+    border-bottom: 1px solid rgb(119, 119, 119);
+    font-family: 'Droid Arabic Kufi';
+    margin: 0px;
+    padding: 1px 4px;
+    font-size: 16px;
+}
+.format-message + label {
+font-size:16px;
+color:#0DA7DD;
+border:1px solid #0DA7DD;
+padding: 4px;
+}
+#divcolor {
+    font-size: 16px;
+    line-height: 13px;
+    font-weight:bold;
+}
+#message {
+    height: 20px;
+    margin-top: 1px;
+    border: 1px solid rgb(154, 154, 154);
+    width: 250px;
+    border-radius: 5px 5px 5px 5px;
+    padding: 4px;
+}
+#submit_button {
+    color: rgb(5, 174, 14);
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.format-message:checked + label {
+    background: none repeat scroll 0% 0% rgba(58, 179, 222, 0.46);
+}
+label[for="message"] {
+    font-size: 17px;
+    font-family: Droid Arabic Kufi;
+    font-weight: bold;
+    padding: 5px 0px 5px 5px;
+    color: rgb(5, 174, 14);
+}
+#chatbox_contextmenu {
+    border-right: 3px solid #F95558;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding-top: 10px;
+    top: 73px;
+}
+#chatbox_contextmenu p {
+    border-right: 3px solid #F95558;
+    border-left: 3px solid #F95558;
+    background-color: #ffffff;
+    font-family: Droid Arabic Kufi;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 1px 4px;
+    border-radius: 5px;
+}
+#chatbox .user {
+    border-color: rgb(45, 185, 227) !important;
+    font-family: georgia !important;
+    font-size: 11px !important;
+    font-style: normal !important;
+    font-variant: normal !important;
+    font-weight: normal !important;
+    text-shadow: 1px 0px 4px;
+}
+#chatbox_members ul li {
+    margin: 0.5em 0.5em 0.5em 0px;
+    text-shadow: 1px 0px 7px;
+}
+.a7lanav ul {
+    font-size: 1.5em;
+    font-weight: 300;
+    list-style: none outside none;
+    margin: 0;
+    max-width: 1240px;
+    padding: 0;
+}
+.a7lanav li span {
+    display: block;
+}
+.a7lanav a {
+    color: rgba(249, 249, 249, 0.9);
+    display: block;
+    text-decoration: none;
+    transition: color 0.5s ease 0s, background 0.5s ease 0s, height 0.5s ease 0s;
+}
+.a7lanav a {
+    font-size: 12.6px;
+    height: 9em;
+}
+.a7lanav i {
+    transform: translate3d(0px, 0px, 0px);
+}
+a, button {
+}
+
+.a7lanav li {
+    float: left;
+    text-align: center;
+    transition: border 0.5s ease 0s;
+    width: 16.6667%;
+}
+.a7lanav a {
+    display: block;
+    width: auto;
+}
+.icon {
+    padding-top: 0.8em;
+}
+.icon + span {
+    margin-top: 2.1em;
+    transition: margin 0.5s ease 0s;
+}
+.a7lanav a {
+    height: 9em;
+}
+.a7lanav a:hover, .no-touch .a7lanav a:active, .no-touch .a7lanav a:focus {
+}
+.a7lanav a:hover .icon + span {
+    margin-top: 15px;
+    transition: margin 0.5s ease 0s;
+}
+.a7lanav i:hover, .no-touch .a7lanav a:active i, .no-touch .a7lanav a:focus i {
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.4s ease-in-out 0s;
+}
+
+.PopularPosts .widget-content ul li {
+    padding: 0 !important;
+}
+.icon-home:before {
+    background: url("http://i38.servimg.com/u/f38/19/09/87/49/one_pi10.png") no-repeat scroll center center / 120px auto rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 60px;
+    padding: 5px;
+    width: 120px;
+}
+.icon-services:before {
+    background: url("http://img2.wikia.nocookie.net/__cb20130404172829/naruto/images/4/48/Naruto_Shipp%C5%ABden_Logo.png") no-repeat scroll center center / 120px auto rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 60px;
+    padding: 5px;
+    width: 120px;
+}
+.icon-portfolio:before {
+    background: url("http://upload.wikimedia.org/wikipedia/fr/0/06/Logo_D%C3%A9tective_Conan.svg") no-repeat scroll center center / 120px auto rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 60px;
+    padding: 5px;
+    width: 120px;
+}
+.icon-blog:before {
+    background: url("http://i38.servimg.com/u/f38/19/09/87/49/dragon10.png") no-repeat scroll center center / 120px auto rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 60px;
+    padding: 5px;
+    width: 120px;
+}
+.icon-team:before {
+    background: url("http://i38.servimg.com/u/f38/19/09/87/49/fairy_10.png") no-repeat scroll center center / 120px auto rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 60px;
+    padding: 5px;
+    width: 120px;
+}
+.icon-contact:before {
+    background: url("http://i38.servimg.com/u/f38/19/09/87/49/logo10.png") no-repeat scroll center center / 120px auto rgba(0, 0, 0, 0);
+    content: "";
+    display: block;
+    height: 60px;
+    padding: 5px;
+    width: 120px;
+}
+div#menu {
+    border-radius: 3px 3px 3px 3px;
+    overflow: hidden;
+}
+      
